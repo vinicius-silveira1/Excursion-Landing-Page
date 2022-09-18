@@ -26,3 +26,8 @@ h4 {
    font-size: 16px;
 }
 
+.copy {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
