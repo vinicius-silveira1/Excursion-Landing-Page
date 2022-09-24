@@ -2,7 +2,7 @@
 
 ## Description 
 
-# Landing page from the "Excursions" project, included in "Git and GitHub" course from Codecademy, build in order to practice git flow.
+Landing page from the "Excursions" project, included in "Git and GitHub" course from Codecademy, build in order to practice git flow.
 
 # :camera: Screenshot!
 
